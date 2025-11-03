@@ -1,7 +1,20 @@
-🛍️ E-Commerce Web Application
+# 🛍️ E-Commerce Web Application
 
-This is a full-stack E-Commerce Web Application built using Spring Boot, Spring Security, JPA, and MySQL/postgressql.  
-It supports multiple user roles (Admin, Seller, and Customer) with secure JWT-based authentication.
+A production-ready E-Commerce platform built using Spring Boot, Spring Security (JWT), Spring Data JPA, and MySQL.  
+This project demonstrates a modular backend architecture supporting Admin, Seller, and Customer roles, complete with secure authentication, role-based authorization, and REST APIs documented via Swagger.
+
+---
+
+🌟 Project Overview
+
+This web application enables users to buy and sell products online through a structured backend API.  
+It manages products, categories, carts, orders, users, and payments — all using clean, maintainable Java code.
+
+🧩 Main Objectives
+- Implement a secure authentication and authorization mechanism.
+- Manage all e-commerce entities (Product, Cart, Order, Payment, User, etc.).
+- Expose all APIs through Swagger UI for easy testing and documentation.
+
 
 ---
 
